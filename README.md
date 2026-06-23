@@ -7,7 +7,12 @@ This repo contains all of the codes of my theoretical thesis in MSc supervised b
 * Using the theoretical results, we proposed a novel loss function for training deep classification models to improve the generalization performance and overcome the over-fitting issue.
 * We assessed our theorems in human age estimation based on face images.
 * We trained deep neural networks using our new loss function in the image and node classification problems in order to stabilize the output models and increase their accuracy.
-* Requirements:
+
+## Paper
+* An original paper containing the theorems, proofs, and experiments on age estimation has been accepted for publication in Amirkabir Journal of Mathematics and Computing (AJMC).
+* Here is the [link](https://ajmc.aut.ac.ir/article_5213.html;)
+
+## Requirements:
   - Python 3.7.8
   - SciPy 1.7.3
   - OpenCV 4.5.5
@@ -15,6 +20,3 @@ This repo contains all of the codes of my theoretical thesis in MSc supervised b
   - CUDA 11.3
   - Torchvision 0.12
   - PyTorch Geometric 2.1
-## Paper
-* An original paper containing the theorems, proofs, and experiments on age estimation has been accepted for publication in Amirkabir Journal of Mathematics and Computing (AJMC).
-* Here is the [link](https://ajmc.aut.ac.ir/article_5213.html;)
