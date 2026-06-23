@@ -17,5 +17,4 @@ This repo contains all of the codes of my theoretical thesis in MSc supervised b
   - PyTorch Geometric 2.1
 ## Paper
 * An original paper containing the theorems, proofs, and experiments on age estimation has been accepted for publication in Amirkabir Journal of Mathematics and Computing (AJMC);
-* The article on the journal website: https://ajmc.aut.ac.ir/article_5213.html;
-* PDF on arXiv: https://arxiv.org/abs/2303.16464.
+* the article on the journal website: https://ajmc.aut.ac.ir/article_5213.html;
