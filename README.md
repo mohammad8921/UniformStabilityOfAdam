@@ -12,7 +12,7 @@ This repo contains all of the codes of my theoretical thesis in MSc supervised b
 * An original paper containing the theorems, proofs, and experiments on age estimation has been accepted for publication in Amirkabir Journal of Mathematics and Computing (AJMC).
 * Here is the [link](https://ajmc.aut.ac.ir/article_5213.html;)
 
-## Requirements:
+## Requirements
   - Python 3.7.8
   - SciPy 1.7.3
   - OpenCV 4.5.5
