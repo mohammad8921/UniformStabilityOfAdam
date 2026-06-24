@@ -10,7 +10,7 @@ This repo contains all of the codes of my theoretical thesis in MSc supervised b
 
 ## Paper
 * An original paper containing the theorems, proofs, and experiments on age estimation has been accepted for publication in Amirkabir Journal of Mathematics and Computing (AJMC). Here is the [link](https://ajmc.aut.ac.ir/article_5213.html).
-* Another paper containing the novel loss function introduction is available on this [arXiv link](https://arxiv.org/abs/2403.08408).
+* Another paper introducing the novel classification loss function is available at this [arXiv link](https://arxiv.org/abs/2403.08408).
 
 ## Requirements
   - Python 3.7.8
