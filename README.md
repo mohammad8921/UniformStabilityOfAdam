@@ -9,8 +9,8 @@ This repo contains all of the codes of my theoretical thesis in MSc supervised b
 * We trained deep neural networks using our new loss function in the image and node classification problems in order to stabilize the output models and increase their accuracy.
 
 ## Paper
-* An original paper containing the theorems, proofs, and experiments on age estimation has been accepted for publication in Amirkabir Journal of Mathematics and Computing (AJMC).
-* Here is the [link](https://ajmc.aut.ac.ir/article_5213.html;)
+* An original paper containing the theorems, proofs, and experiments on age estimation has been accepted for publication in Amirkabir Journal of Mathematics and Computing (AJMC). Here is the [link](https://ajmc.aut.ac.ir/article_5213.html)
+* Another paper containing the novel loss function introduction for classification problems is available on this [Arxix link](https://arxiv.org/abs/2403.08408).
 
 ## Requirements
   - Python 3.7.8
